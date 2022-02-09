@@ -1,6 +1,6 @@
 - 👋 Hi, We are Team of @PakistanSignLanguage
 - 👀 We are working on Sign Language Translation and Recognitions
-- 🌱 I’m currently Reserching and developing
+- 🌱 We are currently Reserching and developing
 - 📫 How to reach us project.paksl@gmail.com
 
 <!---
